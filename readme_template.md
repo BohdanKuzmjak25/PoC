@@ -1,4 +1,3 @@
-# [Назва Проекту] - Модернізована версія
 
 [![CI/CD Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml?branch=main)](https://github.com/username/repo/actions)
 [![Test Coverage](https://img.shields.io/codecov/c/github/username/repo)](https://codecov.io/gh/username/repo)
@@ -34,10 +33,8 @@
 - Підвищення безпеки системи
 - Впровадження сучасних практик розробки
 
-**Автор модернізації:** [Ваше ПІБ]  
-**Університет:** [Назва]  
+**Автор модернізації:** [Кузьмяк Богдан Володимирович]  
 **Дисципліна:** Реінженерія програмного забезпечення  
-**Дата:** [Рік]
 
 ---
 
